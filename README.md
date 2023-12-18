@@ -15,3 +15,5 @@ To do this exercise, you must read carefully the given documentations and rules.
 - Documentation:
   - https://render.com/docs/infrastructure-as-code
   - https://render.com/docs/blueprint-spec
+
+fz
